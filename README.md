@@ -7,7 +7,7 @@
 ### Prática de lógica, estruturas de dados e funções com base no *Curso em Vídeo* (Gustavo Guanabara)
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Con%clu20ido-green?style=for-the-badge)
 ![Exercícios](https://img.shields.io/badge/Exerc%C3%ADcios-70%2B-informational?style=for-the-badge)
 ![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)
 
