@@ -2,7 +2,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="90" alt="Python logo"/>
 
-# 🐍 Exercícios Python — Mundo 2 e Mundo 3
+# Exercícios Python — Mundo 2 e Mundo 3
 
 ### Prática de lógica, estruturas de dados e funções com base no *Curso em Vídeo* (Gustavo Guanabara)
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 📖 Sobre este repositório
+## Sobre este repositório
 
 Este repositório reúne os exercícios que venho resolvendo nos **Mundo 2** e **Mundo 3** do curso de Python do *Curso em Vídeo*. Cada arquivo `exrcXX.py` corresponde a um desafio numerado proposto no curso — o número no nome do arquivo é o número do exercício, não a ordem em que aparecem aqui.
 
@@ -31,7 +31,7 @@ Abaixo eu explico cada um desses pontos com trechos de código reais tirados do 
 
 ---
 
-## 🧩 Estruturas condicionais e laços de repetição
+## Estruturas condicionais e laços de repetição
 
 A base do Mundo 2: usar `if`/`elif`/`else` combinados com `for`/`while` para controlar o fluxo do programa. Exemplo do `exrc60.py`, que soma apenas os números pares digitados pelo usuário:
 
@@ -51,7 +51,7 @@ Aqui o `for` controla **quantas vezes** o programa repete a leitura, e o `if` de
 
 ---
 
-## 🗂️ Estruturas de dados (listas, tuplas e dicionários)
+## Estruturas de dados (listas, tuplas e dicionários)
 
 No Mundo 3 o foco passa a ser guardar e organizar dados de forma mais elaborada do que uma única variável.
 
@@ -80,7 +80,7 @@ O dicionário funciona aqui como um "mini banco de dados" em memória: a chave �
 
 ---
 
-## 🔧 Funções
+## Funções
 
 Funções aparecem para evitar repetição de código e para dar nome a uma operação específica. Exemplo clássico do `exrc111.py`, o cálculo de fatorial:
 
@@ -117,7 +117,7 @@ Com `*notas`, a função aceita **qualquer quantidade** de notas na chamada, e `
 
 ---
 
-## 🧱 Modularização
+## Modularização
 
 Modularizar é dividir um problema grande em várias funções pequenas, cada uma com uma responsabilidade única — e depois combiná-las. O `exrc99.py` (uma calculadora de gastos mensais) é o exemplo mais claro disso no repositório:
 
@@ -143,7 +143,7 @@ Nenhuma função sozinha resolve o problema todo. `relatorio()` só funciona por
 
 ---
 
-## 🛡️ Tratamento de erros
+## Tratamento de erros
 
 Um programa robusto não pode quebrar quando o usuário digita algo inesperado (uma letra no lugar de um número, uma divisão por zero, etc.). Esse cuidado é trabalhado nos exercícios finais do Mundo 3 usando `try`/`except`, seguindo o padrão abaixo:
 
@@ -163,7 +163,7 @@ A ideia central: `try` executa o código que **pode falhar**, `except` captura o
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 Pré-requisito: **Python 3** instalado ([python.org](https://www.python.org/downloads/)).
 
@@ -180,7 +180,7 @@ Cada arquivo é independente — não é necessário rodar em nenhuma ordem espe
 
 ---
 
-## 📁 Estrutura do repositório
+## Estrutura do repositório
 
 ```
 exercicios/
@@ -196,7 +196,6 @@ exercicios/
 ## 👨‍💻 Autor
 
 **Carlos Eduardo**
-Estudando Python com foco em segurança ofensiva (OffSec).
 
 [![GitHub](https://img.shields.io/badge/GitHub-carlos--eduardoc-181717?style=for-the-badge&logo=github)](https://github.com/carlos-eduardoc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Eduardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloseduardo-dev/)
